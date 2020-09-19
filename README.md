@@ -8,3 +8,4 @@ Getting alternatives for a particular medicine.
 Online symptom checker and much more.
 
 To run the application simply clone the repository to the respective Android Studio Folder.
+To be edited
